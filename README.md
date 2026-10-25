@@ -4,7 +4,7 @@
 
 Develop a Python simulator for simplified 193 nm DUV
 lithography and investigate machine-learning-based OPC
-using a surrogate-assisted genetic algorithm.
+using a surrogate-assisted genetic algorithm(SAGA).
 
 ## Scope
 
@@ -13,7 +13,7 @@ using a surrogate-assisted genetic algorithm.
 - Estimate the printed pattern using an intensity threshold.
 - Optimize geometric mask corrections.
 - Compare a direct genetic algorithm with a
-  Gaussian-process surrogate-assisted genetic algorithm.
+  Gaussian-process SAGA.
 - Visualize the target, candidate mask, predicted print,
   and optimization progress.
 
