@@ -1,4 +1,4 @@
-# 193 nm DUV Optical Proximity Correction
+# 193 nm DUV Machine Learning Based Optical Proximity Correction Using a Surrogate-Assisted-Genetic-Algorithm (SAGA) 
 
 ## Project Goal
 
